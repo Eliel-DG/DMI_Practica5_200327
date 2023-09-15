@@ -15,7 +15,7 @@ Aplicación 5: aplicacion flutter con cards
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre | **Aplicación 5* aplicacion flutter con cards* |
+| Nombre | **Aplicación 5* aplicacion flutter con Stateless* |
 | Descripción  |creacion de una aplicacion de flutter con cards|
 |  Fecha de Carga | 15/09/23  |
 
