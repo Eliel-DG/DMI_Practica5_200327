@@ -1,4 +1,23 @@
-# dmi_practica5_200327
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
+
+<div align="Justify">
+
+# DMI_Practica5_200327
+Aplicación 5: aplicacion flutter con cards
+# Universidad Tecnológica de Xicotepec de Juárez
+
+## Ingeniería en Desarrollo y Gestión de Software
+## Eliel Díaz Galindo
+## 10A
+### Desarrollo Movil Integral
+
+&nbsp;
+&nbsp;
+|  Característica |  Información |
+| :------------: | :------------: |
+| Nombre | **Aplicación 5* aplicacion flutter con cards* |
+| Descripción  |creacion de una aplicacion de flutter con cards|
+|  Fecha de Carga | 15/09/23  |
 
 A new Flutter project.
 
